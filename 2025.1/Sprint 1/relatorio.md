@@ -37,12 +37,6 @@ sqlmap -u "https://hml-ejplatform-admin.lappis.rocks/login/" \
 
 ## Resultados do Teste
 
-### Avisos e Alertas
-- ⚠️ URL alvo fornecida sem parâmetros GET
-- ⚠️ Conteúdo da URL alvo não estável
-- ⚠️ Parâmetro URI '#1*' não parece ser dinâmico
-- ⚠️ Versão do sqlmap desatualizada
-
 ### Estatísticas
 - **Códigos de Erro HTTP 404:** 73 ocorrências
 - **Técnicas Testadas:**
