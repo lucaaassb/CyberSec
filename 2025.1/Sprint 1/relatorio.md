@@ -51,4 +51,4 @@ Nenhum parâmetro testado apresentou vulnerabilidade a injeção SQL. Recomenda�
 1. Aumentar os valores de `--level` e `--risk` para testes mais abrangentes
 2. Verificar possíveis mecanismos de proteção (WAF)
 3. Considerar uso de outros tamper scripts
-4. Atualizar a versão do sqlmap
+
