@@ -8,7 +8,7 @@
 
 ## Comando Utilizado
 ```bash
-sqlmap -u "https://hml-ejplatform-admin.lappis.rocks/login/" \
+sqlmap -u "http://localhost:8000/api/v1/token/" \
 --method=POST \
 --data='{"username":"admin","password":"123456"}' \
 --headers="Content-Type: application/json" \
