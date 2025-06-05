@@ -40,11 +40,11 @@ sqlmap -u "https://hml-ejplatform-admin.lappis.rocks/login/" \
 ### Estatísticas
 - **Códigos de Erro HTTP 404:** 73 ocorrências
 - **Técnicas Testadas:**
-  - Injeção baseada em boolean
-  - Injeção baseada em erro (MySQL, PostgreSQL, SQL Server, Oracle)
-  - Queries empilhadas
-  - Injeção baseada em tempo
-  - UNION queries
+  - Boolean-based blind injection
+  - Error-based injection (MySQL, PostgreSQL, SQL Server, Oracle)
+  - Stacked queries
+  - Time-based blind injection
+  - UNION query injection
 
 ### Conclusão
 Nenhum parâmetro testado apresentou vulnerabilidade a injeção SQL. Recomendações:
