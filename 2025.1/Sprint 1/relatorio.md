@@ -1,6 +1,6 @@
 # Relatório de Teste de Injeção SQL
 
-![Tela de Login](login.jpg)
+![Tela de Login](./assets/login.jpg)
 
 ## Informações Gerais
 - **Data do Teste:** 05/06/2025
