@@ -1,12 +1,23 @@
 # Relatório de Teste de Injeção SQL
 
-![Tela de Login](./assets/login.jpg)
-
 ## Informações Gerais
 - **Data do Teste:** 05/06/2025
 - **Horário de Início:** 14:34:24
 - **Horário de Término:** 14:34:33
 - **Duração:** 9 segundos
+
+## Principais Rotas de API
+O projeto possui as seguintes rotas de API principais:
+- `/api/v1/rasa-conversations/`
+- `/api/v1/opinion-component/`
+- `/api/v1/conversations/`
+- `/api/v1/comments/`
+- `/api/v1/votes/`
+- `/api/v1/clusterizations/`
+- `/api/v1/profiles/`
+- `/api/v1/boards/`
+- `/api/v1/users/`
+- `/api/v1/` (autenticação)
 
 ## Comando Utilizado
 ```bash
